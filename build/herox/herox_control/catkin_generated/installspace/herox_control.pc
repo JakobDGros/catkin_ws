@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/install
+
+Name: herox_control
+Description: Description of herox_control
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmecanum_drive_controller
+Requires: controller_interface realtime_tools

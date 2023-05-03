@@ -1,0 +1,2 @@
+beginner_tutorial:herox/herox_control:herox/herox_description:herox/herox_navigation:herox_desktop/herox_desktop:herox_desktop/herox_viz:hs_aalen_moveit:robco-ros/robco_description:robco-ros/robco_hw:tdot_testcase
+-DCATKIN_DEVEL_PREFIX=/home/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/catkin_ws/install -G Unix Makefiles

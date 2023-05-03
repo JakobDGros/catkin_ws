@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/devel
+
+Name: hs_aalen_moveit
+Description: Description of hs_aalen_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
